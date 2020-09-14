@@ -178,7 +178,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 	}
 
 		p.content {
@@ -196,7 +196,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.5;
-		margin: 0 0 0.7em 0;
+		margin: 0 0 0.7em;
 		letter-spacing: -0.025em;
 	}
 
@@ -253,7 +253,7 @@ input, select, textarea {
 	blockquote {
 		border-left: solid 4px;
 		font-style: italic;
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 		padding: 0.5em 0 0.5em 2em;
 	}
 
@@ -270,7 +270,7 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 	}
 
 		pre code {
@@ -474,19 +474,19 @@ input, select, textarea {
 
 		.row.gtr-0 {
 			margin-top: 0;
-			margin-left: 0em;
+			margin-left: 0;
 		}
 
 			.row.gtr-0 > * {
-				padding: 0 0 0 0em;
+				padding: 0;
 			}
 
 			.row.gtr-0.gtr-uniform {
-				margin-top: 0em;
+				margin-top: 0;
 			}
 
 				.row.gtr-0.gtr-uniform > * {
-					padding-top: 0em;
+					padding-top: 0;
 				}
 
 		.row.gtr-25 {
@@ -717,19 +717,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -962,19 +962,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -1207,19 +1207,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -1452,19 +1452,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -1697,19 +1697,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -1989,14 +1989,14 @@ input, select, textarea {
 /* Form */
 
 	form {
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 	}
 
 	label {
 		display: block;
 		font-size: 0.9em;
 		font-weight: 400;
-		margin: 0 0 1em 0;
+		margin: 0 0 1em;
 	}
 
 	input[type="text"],
@@ -2260,7 +2260,7 @@ input, select, textarea {
 			display: inline-block;
 			border-radius: 100%;
 			padding: 0.65em;
-			margin: 0 0 2em 0;
+			margin: 0 0 2em;
 			cursor: default;
 		}
 
@@ -2329,7 +2329,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.icon.major {
-				margin: 0 0 1.5em 0;
+				margin: 0 0 1.5em;
 				padding: 0.35em;
 			}
 
@@ -2396,7 +2396,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 0;
+			margin: 0 0 2em;
 			width: 100%;
 		}
 
@@ -2406,7 +2406,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 0 0 3em 0;
+			margin: 0 0 3em;
 			width: 100%;
 		}
 
@@ -2418,7 +2418,7 @@ input, select, textarea {
 
 	ol {
 		list-style: decimal;
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 		padding-left: 1.25em;
 	}
 
@@ -2428,7 +2428,7 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 		padding-left: 1em;
 	}
 
@@ -2452,13 +2452,13 @@ input, select, textarea {
 				}
 
 	dl {
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 	}
 
 		dl dt {
 			display: block;
 			font-weight: 400;
-			margin: 0 0 1em 0;
+			margin: 0 0 1em;
 		}
 
 		dl dd {
@@ -2531,7 +2531,7 @@ input, select, textarea {
 		}
 
 			ul.actions.stacked li {
-				padding: 1.3em 0 0 0;
+				padding: 1.3em 0 0;
 			}
 
 				ul.actions.stacked li:first-child {
@@ -2582,7 +2582,7 @@ input, select, textarea {
 					-webkit-flex-shrink: 1;
 					-ms-flex-shrink: 1;
 					flex-shrink: 1;
-					padding: 1em 0 0 0;
+					padding: 1em 0 0;
 					text-align: center;
 					width: 100%;
 				}
@@ -2649,7 +2649,7 @@ input, select, textarea {
 				content: '';
 				width: 3.25em;
 				height: 2px;
-				margin: 0.7em 0 1em 0;
+				margin: 0.7em 0 1em;
 				border-radius: 2px;
 			}
 
@@ -2713,7 +2713,7 @@ input, select, textarea {
 	}
 
 	table {
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 		width: 100%;
 	}
 
@@ -2724,13 +2724,13 @@ input, select, textarea {
 		}
 
 		table td {
-			padding: 0.75em 0.75em;
+			padding: 0.75em;
 		}
 
 		table th {
 			font-size: 0.9em;
 			font-weight: 400;
-			padding: 0 0.75em 0.75em 0.75em;
+			padding: 0 0.75em 0.75em;
 			text-align: left;
 		}
 
@@ -2844,7 +2844,7 @@ input, select, textarea {
 
 			.features {
 				width: 100%;
-				margin: 0 0 2em 0;
+				margin: 0 0 2em;
 			}
 
 				.features li {
@@ -2867,7 +2867,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		width: 100%;
-		margin: 0 0 3em 0;
+		margin: 0 0 3em;
 		padding: 0;
 		list-style: none;
 		cursor: default;
@@ -2945,7 +2945,7 @@ input, select, textarea {
 				display: block;
 				width: 20em;
 				max-width: 100%;
-				margin: 0 auto 2em auto;
+				margin: 0 auto 2em;
 			}
 
 				.statistics li:first-child {
@@ -2979,7 +2979,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		margin: 0 0 2em 0;
+		margin: 0 0 2em;
 	}
 
 		.spotlight .content {
@@ -2994,7 +2994,7 @@ input, select, textarea {
 			}
 
 			.spotlight .content header.major {
-				margin: 0 0 2em 0;
+				margin: 0 0 2em;
 			}
 
 		.spotlight .image {
@@ -3072,12 +3072,12 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 5em 5em 1em 5em ;
+		padding: 5em 5em 1em;
 		text-align: center;
 	}
 
 		#header h1 {
-			margin: 0 0 0.25em 0;
+			margin: 0 0 0.25em;
 		}
 
 		#header p {
@@ -3086,7 +3086,7 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 7em 5em 4em;
 		}
 
 			#header.alt h1 {
@@ -3115,7 +3115,7 @@ input, select, textarea {
 				-ms-transition-delay: 0s;
 				transition-delay: 0s;
 				display: block;
-				margin: 0 0 1.5em 0;
+				margin: 0 0 1.5em;
 			}
 
 				#header.alt .logo img {
@@ -3127,11 +3127,11 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#header {
-				padding: 4em 4em 0.1em 4em ;
+				padding: 4em 4em 0.1em;
 			}
 
 				#header.alt {
-					padding: 6em 4em 3em 4em ;
+					padding: 6em 4em 3em;
 				}
 
 		}
@@ -3139,11 +3139,11 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#header {
-				padding: 4em 3em 0.1em 3em ;
+				padding: 4em 3em 0.1em;
 			}
 
 				#header.alt {
-					padding: 5em 3em 2em 3em ;
+					padding: 5em 3em 2em;
 				}
 
 		}
@@ -3151,7 +3151,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				padding: 3em 2em 0.1em 2em ;
+				padding: 3em 2em 0.1em;
 			}
 
 				#header p {
@@ -3164,7 +3164,7 @@ input, select, textarea {
 					}
 
 				#header.alt {
-					padding: 4em 2em 1em 2em ;
+					padding: 4em 2em 1em;
 				}
 
 					#header.alt h1 {
@@ -3176,11 +3176,11 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header {
-				padding: 3em 1.5em 0.1em 1.5em ;
+				padding: 3em 1.5em 0.1em;
 			}
 
 				#header.alt {
-					padding: 4em 1.5em 1em 1.5em ;
+					padding: 4em 1.5em 1em;
 				}
 
 		}
@@ -3188,11 +3188,11 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			#header {
-				padding: 2.5em 1em 0.1em 1em ;
+				padding: 2.5em 1em 0.1em;
 			}
 
 				#header.alt {
-					padding: 3.5em 1em 0.5em 1em ;
+					padding: 3.5em 1em 0.5em;
 				}
 
 		}
@@ -3581,7 +3581,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 5em 5em 3em;
 			border-top: solid 1px #dddddd;
 		}
 
@@ -3608,7 +3608,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#main > .main {
-				padding: 4em 4em 2em 4em ;
+				padding: 4em 4em 2em;
 			}
 
 				#main > .main > .image.main:first-child {
@@ -3621,7 +3621,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#main > .main {
-				padding: 4em 3em 2em 3em ;
+				padding: 4em 3em 2em;
 			}
 
 				#main > .main > .image.main:first-child {
@@ -3634,7 +3634,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#main > .main {
-				padding: 3em 2em 1em 2em ;
+				padding: 3em 2em 1em;
 			}
 
 				#main > .main > .image.main:first-child {
@@ -3647,7 +3647,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#main > .main {
-				padding: 3em 1.5em 1em 1.5em ;
+				padding: 3em 1.5em 1em;
 			}
 
 				#main > .main > .image.main:first-child {
@@ -3664,7 +3664,7 @@ input, select, textarea {
 			}
 
 				#main > .main {
-					padding: 2.5em 1em 0.5em 1em ;
+					padding: 2.5em 1em 0.5em;
 				}
 
 					#main > .main > .image.main:first-child {
@@ -3690,7 +3690,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		padding: 5em 5em 3em 5em ;
+		padding: 5em 5em 3em;
 		width: calc(100% + 2em);
 		margin: 0 0 3em -2em;
 	}
@@ -3702,7 +3702,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			width: 100%;
-			margin: 2.5em 0 2em 0;
+			margin: 2.5em 0 2em;
 			font-size: 0.8em;
 			text-align: center;
 		}
@@ -3710,7 +3710,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#footer {
-				padding: 4em 4em 2em 4em ;
+				padding: 4em 4em 2em;
 			}
 
 		}
@@ -3718,9 +3718,9 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#footer {
-				padding: 4em 3em 2em 3em ;
+				padding: 4em 3em 2em;
 				display: block;
-				margin: 0 0 3em 0;
+				margin: 0 0 3em;
 				width: 100%;
 			}
 
@@ -3739,7 +3739,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#footer {
-				padding: 3em 2em 1em 2em ;
+				padding: 3em 2em 1em;
 			}
 
 		}
@@ -3747,7 +3747,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#footer {
-				padding: 3em 1.5em 1em 1.5em ;
+				padding: 3em 1.5em 1em;
 			}
 
 		}
@@ -3755,7 +3755,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#footer {
-				padding: 2.5em 1em 0.5em 1em ;
+				padding: 2.5em 1em 0.5em;
 			}
 
 		}
